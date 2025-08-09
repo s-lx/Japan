@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Tokio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; }
+    h1, h2, h3 { color: #2c3e50; }
+    ul { list-style-type: disc; margin-left: 2rem; margin-bottom: 1.5rem; }
+    li { margin-bottom: 0.5rem; }
+    a { color: #2980b9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .section { margin-bottom: 2rem; }
+  </style>
+</head>
+<body>
+  <div class="section">
+    <a href="index.html">← Zurück zur Übersicht</a>
+  </div>
+  <hr>
+  
+<div class="section">
+  <h1>Aktuelle politische Strömungen in Japan</h1>
+  <ul>
+    <li><strong>Populistische Bewegungen:</strong> Aufstieg von Parteien wie <em>Sanseito</em> mit nationalistischen und anti-Einwanderungs-Positionen.</li>
+    <li><strong>Rechtskonservative Kräfte:</strong> Starke Betonung traditioneller Werte, Revisionismus und Skepsis gegenüber internationalen Abkommen.</li>
+    <li><strong>Regierungskoalition unter Druck:</strong> LDP und Komeito haben bei der Oberhauswahl 2025 die Mehrheit verloren.</li>
+    <li><strong>Weitere Parteien:</strong> Linksliberale Gruppen wie <em>Reiwa Shinsengumi</em> setzen auf soziale Gerechtigkeit und Atomausstieg.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h1>Gesellschaftliche Herausforderungen</h1>
+  <ul>
+    <li><strong>Demografischer Wandel:</strong> Schrumpfende Bevölkerung, rapide Alterung, sinkende Geburtenrate.</li>
+    <li><strong>Arbeitskräftemangel:</strong> Besonders gravierend in ländlichen Regionen; Automatisierung als Teillösung.</li>
+    <li><strong>Wirtschaftliche Probleme:</strong> Hohe Staatsverschuldung, Inflation und schwacher Yen.</li>
+    <li><strong>Politische Teilhabe:</strong> Junge Generationen sind politisch unterrepräsentiert.</li>
+    <li><strong>Familienkrise:</strong> Weniger Heiraten und Kinder, oft wegen unsicherer Jobs und hoher Lebenshaltungskosten.</li>
+  </ul>
+</div>
+
+<hr>
+<div class="section">
+  <a href="index.html">← Zurück zur Übersicht</a>
+</div>
+</body>
+</html>
